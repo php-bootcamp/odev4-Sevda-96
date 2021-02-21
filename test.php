@@ -1,9 +1,9 @@
 <?php
 
-include "IQuery.php";
+//include "IQuery.php";
 include "PDOConnector.php";
 include "SQLQuery.php";
-include "SQL.php";
+//include "SQL.php";
 include "SQLCrud.php";
 include "MySQL.php";
 include "PostgreSQL.php";
